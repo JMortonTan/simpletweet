@@ -58,6 +58,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
 <img src='https://github.com/JMortonTan/simpletweet/blob/main/Demo/demo2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <img src='https://github.com/JMortonTan/simpletweet/blob/main/Demo/demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
